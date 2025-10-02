@@ -5,8 +5,6 @@ A distributed voting platform that processes election data in real-time using mo
 ## Architecture Overview
 ![System Architecture](images/system_architecture.jpg)
 
-## Data Flow Diagram  
-![System Flow](images/system_flow.jpg)
 
 ## Core Components
 
@@ -75,14 +73,15 @@ Access the live dashboard at: http://localhost:8501
 ## Screenshots
 
 ### Database Schema
-![Database Tables](images/db_columns.png)
+![Database Tables](images/db.png)
 
 ### Spark Streaming Batches
-![Spark Batches](images/spark_batches.png)
+![Spark Batches](images/batches.png)
 
 ### Voting Process
-![Voting Logs](images/voting_logs.png)
+![Voting Logs](images/voting.png)
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/cap1.png)
+![Dashboard](images/cap2.png)
 
